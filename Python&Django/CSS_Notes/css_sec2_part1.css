@@ -1,0 +1,27 @@
+h1{
+  font-family: "Arial";
+}
+
+p{
+  font-family: 'Roboto Mono', monospace;
+}
+
+/* em references the px size referenced in the main body tag */
+/* by default without anything set it is 16px */
+/* this allows you to do relational sizing */
+/* body{
+  font-size: 20px;
+}
+
+#two{
+  font-size: 1.0em;
+}
+
+p{
+  font-style: italic;
+  font-weight: bold;
+}
+
+h1{
+  text-align: center;
+} */

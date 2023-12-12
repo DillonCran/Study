@@ -1,0 +1,40 @@
+h3{
+  font-family: 'Permanent Marker', cursive;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: center;
+}
+
+table{
+  margin: auto;
+  width: 600px;
+  height: 250px;
+  border-spacing: 8px;
+}
+
+tr{
+}
+
+td{
+  padding: 10px;
+}
+
+#one{
+  background: red;
+}
+
+#two{
+  background: #E84545;
+}
+
+#three{
+  background: #903749;
+}
+
+#four{
+  background: #53354A;
+}
+
+#five{
+  background: #2B2E4A;
+}

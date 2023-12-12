@@ -1,0 +1,53 @@
+header{
+  background: #13005A;
+  height: 50px;
+  margin: -20px -20px 0 -20px;
+}
+
+body{
+  font-family: 'Inter', sans-serif;
+  background: #5BC0F8;
+  text-align: center;
+  margin: auto;
+
+}
+
+table{
+  width: 85%;
+  height: 800px;
+  margin: -20px auto 20px auto;
+  background: #13005A;
+  color: white;
+}
+
+p{
+  margin: 50px 15% auto 15%;
+  color: white;
+}
+
+.head{
+  margin-bottom: 100px;
+}
+
+
+#thankyou{
+  width: 85%;
+  margin: -20px auto 20px auto;
+  background: #13005A;
+  color: white;
+}
+.button{
+  background: orange;
+  color: black;
+  border-radius: 15px;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 20px 10px 20px 10px;
+  border-color: white gray gray white;
+
+}
+
+.input{
+  /* height: 30px; */
+  font-size: 30px;
+}

@@ -1,0 +1,39 @@
+.firstDiv{
+  color: blue;
+}
+
+div{
+  color: red;
+}
+
+/* Class call */
+.secondDiv{
+  color: green;
+}
+
+/* ID call */
+#singledOut{
+  color: yellow;
+  text-decoration: line-through;
+}
+
+/* asterics are used to effect all aspects on a page not effected by ID's */
+*{
+  color: black;
+}
+
+/* Any unordered list next to an H3 heading */
+h3 + ul{
+  border: 4px dotted purple;
+}
+
+/* This will get any ancor tags INSIDE a list */
+li a{
+  color: red;
+}
+
+/* You can specify if the ancor has a specific attribute with [] */
+li a[href="www.npr.org"]{
+  color: blue;
+  border: 2px solid orange;
+}
